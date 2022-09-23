@@ -1,0 +1,9 @@
+.square
+{
+    background-color: black;
+    border: 10px solid blanchedalmond;
+    height: 100px;
+    width:  100px;
+    margin: 25px 20px 15px 10px;
+    padding: 20px;
+}
